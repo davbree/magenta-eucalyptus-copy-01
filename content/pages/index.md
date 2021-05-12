@@ -10,7 +10,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: primary
-      - label: lorem-ipsum
+      - label: lorem-ipsum..
         url: '#'
         style: link
         has_icon: false
